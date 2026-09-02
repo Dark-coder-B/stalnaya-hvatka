@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/stalnaya-hvatka/static/css/main.a7c25ac6.css",
-    "main.js": "/stalnaya-hvatka/static/js/main.9b1c575c.js",
+    "main.js": "/stalnaya-hvatka/static/js/main.68c13c8e.js",
     "static/js/453.82633587.chunk.js": "/stalnaya-hvatka/static/js/453.82633587.chunk.js",
     "static/media/fon1.jpg": "/stalnaya-hvatka/static/media/fon1.babf2d066414abd7cc4a.jpg",
     "static/media/fon2.jpg": "/stalnaya-hvatka/static/media/fon2.6639668de0036dd94de6.jpg",
@@ -9,11 +9,11 @@
     "static/media/logo.svg": "/stalnaya-hvatka/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/stalnaya-hvatka/index.html",
     "main.a7c25ac6.css.map": "/stalnaya-hvatka/static/css/main.a7c25ac6.css.map",
-    "main.9b1c575c.js.map": "/stalnaya-hvatka/static/js/main.9b1c575c.js.map",
+    "main.68c13c8e.js.map": "/stalnaya-hvatka/static/js/main.68c13c8e.js.map",
     "453.82633587.chunk.js.map": "/stalnaya-hvatka/static/js/453.82633587.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7c25ac6.css",
-    "static/js/main.9b1c575c.js"
+    "static/js/main.68c13c8e.js"
   ]
 }
